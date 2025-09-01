@@ -13,10 +13,9 @@ Sistem ini digunakan untuk **membantu bendahara** dalam mengelola keuangan organ
 ---
 
 ## 🗄️ Struktur Database Utama
-1. **users** → data user + role (bendahara / anggota)  
+1. **users** → data data bendahara
 2. **transactions** → catatan pemasukan & pengeluaran  
-   - Kolom: `type`, `category`, `amount`, `description`, `date`, `user_id`  
-3. **members** (opsional) → data anggota + status iuran  
+   - Kolom: `type`, `category`, `amount`, `description`, `date`, `user_id` 
 
 ---
 
