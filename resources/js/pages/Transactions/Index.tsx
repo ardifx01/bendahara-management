@@ -49,7 +49,7 @@ export default function Index() {
                 </div>
 
                 {/* Table Card */}
-                <div className="bg-white dark:bg-gray-800 shadow-lg overflow-x-auto border border-gray-200 dark:border-gray-700">
+                <div className="bg-white dark:bg-gray-800 shadow-lg overflow-x-auto border border-gray-200 dark:border-gray-700 rounded-t-lg">
                     <Table className="min-w-[800px]">
                         <TableHeader className="bg-gray-100 dark:bg-gray-700 border-b border-gray-300 dark:border-gray-600">
                             <TableRow>

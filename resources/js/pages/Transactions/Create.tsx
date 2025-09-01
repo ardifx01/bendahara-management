@@ -30,7 +30,7 @@ export default function Create() {
                     <h1 className="text-2xl font-bold">Tambah Transaksi</h1>
                     <Link
                         href="/transactions"
-                        className="text-blue-600 hover:underline text-sm font-bold"
+                        className="inline-flex items-center px-4 py-2 bg-blue-700 text-white text-sm font-bold rounded-md shadow-sm hover:bg-gray-300"
                     >
                         Kembali
                     </Link>
